@@ -2,7 +2,7 @@
 
 🎓 Diploma IT Student (5th Semester)
 
-💻 GitHub Username: kavya-patel
+💻 GitHub Username: kavyabpatel
 
 🔭 Currently working on: Programming & Web Development Projects
 
@@ -11,9 +11,10 @@
 📫 **=How to reach me:**
 ✉️ Email: kavyabpatel1532008@gmail.com
 
-🤝 Connect with me
+🤝 **Connect with me**
 
-GitHub: kavya-patel
+GitHub: kavyabpatel
+
 
 🛠️ **Languages and Tools**
 
