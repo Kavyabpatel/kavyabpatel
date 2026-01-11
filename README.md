@@ -15,10 +15,9 @@ GitHub: kavya-patel
 
 🛠️ **Languages and Tools**
 
-![C](https://img.shields.io/badge/C-blue?style=flat)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-lightgrey?style=flat)
-![PHP](https://img.shields.io/badge/PHP-purple?style=flat)
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="45"/>
