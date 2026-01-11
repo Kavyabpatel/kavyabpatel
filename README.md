@@ -1,5 +1,7 @@
 ## Hi 👋, I'm Kavya Patel
 
+![Profile Views](https://komarev.com/ghpvc/?username=Kavyabpatel&label=Profile%20Views&color=blue&style=flat)
+
 🎓 Diploma IT Student (5th Semester)
 
 💻 GitHub Username: kavyabpatel
