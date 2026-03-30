@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kavyabpatel&label=Profile%20Views&color=blue&style=flat)
 
-🎓 Diploma IT Student (5th Semester)
+🎓 Diploma IT Student (6th Semester)
 
 💻 GitHub Username: kavyabpatel
 
